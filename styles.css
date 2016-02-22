@@ -1,0 +1,77 @@
+body
+{
+	
+    background-color: #00CC00;
+	
+}
+
+h1
+{
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: #00CC00;
+		
+}
+
+h2
+{
+	font-size: 16px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    color: #00CC00;
+		
+}
+
+.delete {
+    background-image: url('buttons/delete.JPG');
+    cursor: pointer;
+    width: 79px;
+    height: 35px;
+}
+
+.delete:hover {
+    background-image: url('buttons/delete2.JPG');
+    cursor: pointer;
+    width: 79px;
+    height: 35px;
+}
+
+.update {
+    background-image: url('buttons/update.JPG');
+    cursor: pointer;
+    width: 79px;
+    height: 35px;
+}
+
+.update:hover {
+    background-image: url('buttons/update2.JPG');
+    cursor: pointer;
+    width: 79px;
+    height: 35px;
+}
+
+.insert {
+    background-image: url('buttons/insert.JPG');
+    cursor: pointer;
+    width: 109px;
+    height: 40px;
+}
+
+.insert:hover {
+    background-image: url('buttons/insert2.JPG');
+    cursor: pointer;
+    width: 109px;
+    height: 40px;
+}
+
+.search {
+    background-image: url('buttons/search.JPG');
+    cursor: pointer;
+    width: 109px;
+    height: 40px;
+}
+
+.search:hover {
+    background-image: url('buttons/search2.JPG');
+    cursor: pointer;
+    width: 109px;
+    height: 40px;
+}
